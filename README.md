@@ -1,1 +1,2 @@
-# Boiller-plate
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
